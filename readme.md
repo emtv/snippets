@@ -6,6 +6,7 @@
 
 La organización sigue una estructura lógica por categorías y tecnologías, permitiendo que desarrolladores encuentren rápidamente lo que necesitan. Cada snippet está documentado para explicar su propósito, uso y beneficios. Aquí tienes una vista general de la estructura:
 
+```plaintext
 snippets/
 ├── wordpress/
 │   └── selective-load-scripts.php   # Carga selectiva de scripts y plugins en WordPress
@@ -15,7 +16,7 @@ snippets/
 │   └── example-query.sql            # Ejemplos de consultas SQL
 └── php/
     └── example-php-snippet.php      # Ejemplos de código PHP
-
+```
 
 
 > **Nota:** Este repositorio se actualizará regularmente con nuevos snippets y mejoras en el código existente, basadas en la experiencia y necesidades surgidas en proyectos en desarrollo.
@@ -62,7 +63,7 @@ function conditional_plugin_loader($plugins) {
     }
     return $plugins;
 }
-
+```
 
 ## 🛠 Herramientas y Recomendaciones
 Algunos de los snippets aquí están optimizados para proyectos que requieren un alto rendimiento o una carga eficiente de recursos. Utilizamos tecnologías modernas y técnicas de optimización, asegurando compatibilidad y eficiencia en entornos de producción.
