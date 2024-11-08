@@ -71,4 +71,5 @@ Algunos de los snippets aquí están optimizados para proyectos que requieren un
 ## 📜 Licencia
 Este repositorio se distribuye bajo la Licencia MIT, lo que permite su uso en proyectos personales y comerciales, siempre que se proporcione la atribución adecuada.
 
-## 💡 Mantente atento a futuras actualizaciones: A medida que nuevos retos surgen, se irán agregando más snippets y mejoras a este repositorio. ¡Esperamos que este recurso sea de ayuda en tus proyectos!
+## 💡 Mantente atento a futuras actualizaciones
+A medida que nuevos retos surgen, se irán agregando más snippets y mejoras a este repositorio. ¡Esperamos que este recurso sea de ayuda en tus proyectos!
